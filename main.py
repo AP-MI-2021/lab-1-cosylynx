@@ -31,3 +31,7 @@ def main():
 
 if __name__ == '__main__':
   main()
+
+'''
+Acesta este un comentariu în Python.
+'''
